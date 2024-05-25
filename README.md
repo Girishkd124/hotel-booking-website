@@ -15,6 +15,9 @@ Admin Panel: Manage hotel listings, bookings, and user accounts.
 Technologies Used:
 
 Frontend: HTML, CSS, JavaScript
+
 Backend: PHP
+
 Database: MySQL
+
 Payment Gateway: Razorpay
